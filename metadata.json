@@ -1,0 +1,5 @@
+{
+  "name": "RIFT 2026: Money Muling Detection Engine",
+  "description": "A graph-based financial forensics tool for detecting money muling networks, cycles, and smurfing patterns in transaction data.",
+  "requestFramePermissions": []
+}
